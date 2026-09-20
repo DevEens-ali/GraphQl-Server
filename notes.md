@@ -1,4 +1,4 @@
-Bilkul bro ❤️ Abhi tak humne **GraphQL ke kaafi important concepts** touch kiye hain. Main tumhein ek simple **memory map** deta hoon taa ke concepts dimagh mein connected rahen.
+
 
 ## 🧠 GraphQL ka simple flow
 
@@ -338,4 +338,3 @@ Aur bro, **Subscriptions** abhi humne nahi kiye. Wo baad mein aayenge:
 Subscription = "Data change ho to mujhe automatically update karna." 🔴
 ```
 
-Abhi tumhare GraphQL fundamentals ka base **Schema → Type → Query → Resolver → Input → Mutation** tak ban chuka hai. 💪
