@@ -4,6 +4,8 @@ A backend GraphQL API built with **Python, FastAPI, Strawberry GraphQL, SQLAlche
 
 This project was developed as part of an internship task to practice GraphQL queries, mutations, subscriptions, database integration, and authentication.
 
+Click to visit : https://graph-ql-server-v8bg.vercel.app/graphql
+
 ## 🚀 Features
 
 - GraphQL API using Strawberry
